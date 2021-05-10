@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Reservation</string>
+    <string name="non_smoking_area">Non-smoking Area</string>
+    <string name="smoking_area">Smoking area</string>
+    <string name="confirm">Confirm</string>
+    <string name="reset">Reset</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="mobile_number">MOBILE NUMBER</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_size_of_group">Enter size of group</string>
+    <string name="size_of_group">Size of Group</string>
+    <string name="name">NAME</string>
+</resources>
